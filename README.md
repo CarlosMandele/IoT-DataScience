@@ -3,7 +3,7 @@
 
  ### IoT & Data Science na prática
 
- Projeto realizado durante minhas aulas de Introdução a Computação do curso de Bacharelado em Ciência de Dados e tem com objetivo implementar uma conexão de serviço web `(API)` para coleta, leitura e aplicar algumas tecnicas de `Data Science` sobre os dados de aferição de temperatura e umidade capturados por sensores `IoT` situados no campus da universidade.
+Projeto realizado durante minhas aulas de Introdução a Computação do curso de Bacharelado em Ciência de Dados. Neste projeto, o objetivo é implementar uma conexão de serviço web `(API)` para coletar dados e aplicar técnicas de `Data Science` sobre os dados de aferição de temperatura e umidade capturados por sensores `IoT` situados em vários polos (campus) da universidade.
 
 
 ##### Copyright (c) 2021, Carlos Mandele K.
